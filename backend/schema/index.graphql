@@ -1,5 +1,0 @@
-#import User, Profile from 'User.graphql'
-#import Brand from 'Brand.graphql'
-#import Category from 'Category.graphql'
-#import Query from 'Query.graphql'
-#import Mutation from 'Mutation.graphql'
